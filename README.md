@@ -27,8 +27,8 @@ Noise-Augmented Training.
 The proposed STFusionNet combines spatial feature enhancement, temporal evolution modeling, and adaptive sequence-level feature aggregation 
 for aircraft target recognition from continuous multi-view ISAR image sequences.
 
-**Requirements**：
+**Requirements**
 The main implementation is based on Python, PyTorch, MATLAB, and commonly used scientific computing libraries.
 
-**Citation**：
+**Citation**
 If this code is useful for your research, please consider citing the corresponding paper.
